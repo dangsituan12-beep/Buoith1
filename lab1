@@ -1,0 +1,40 @@
+<body>
+    <div class="container">
+        <h2 class="text-center mt-3">Thư viện ảnh của tôi</h2>
+
+        <ul class="row list-unstyled gy-3">
+            <li class="col-md-2 col-sm-3 col-4">
+                <img
+                    class="img-fluid"
+                    src="images/photodune-174908-rocking-the-night-away-xs.jpg"
+                />
+            </li>
+
+            <li class="col-md-2 col-sm-3 col-4">
+                <img
+                    class="img-fluid"
+                    src="images/photodune-287182-blah-blah-blah-yellow-road-sign-xs.jpg"
+                />
+            </li>
+
+            <li class="col-md-2 col-sm-3 col-4">
+                <img class="img-fluid"
+                     src="images/photodune-460760-colors-xs.jpg" />
+            </li>
+
+            <li class="col-md-2 col-sm-3 col-4">
+                <img
+                    class="img-fluid"
+                    src="images/photodune-461673-retro-party-xs.jpg"
+                />
+            </li>
+
+            <li class="col-md-2 col-sm-3 col-4">
+                <img
+                    class="img-fluid"
+                    src="images/photodune-514834-touchscreen-technology-xs.jpg"
+                />
+            </li>
+        </ul>
+    </div>
+</body>
